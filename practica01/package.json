@@ -1,0 +1,16 @@
+{
+  "name": "desarrollo-de-software",
+  "version": "1.0.0",
+  "description": "3 Prácticas de desarrollo de software, docker y node js Lic. Víctor Hugo Martínez Bravo del 9 al 12 y del 16 al 19 de junio de 2025 19:30 a 21:00 Línea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
